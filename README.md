@@ -10,4 +10,4 @@ Remove a name and print it
 Print the queue Add another name 
 Print the queue In a loop, until the queue is empty, remove a name and print it. 
 
-Then repeat the same code, in the same project, to create and work with a stack.
+Then repeat the same code, in the same project, to create and work with a stack
